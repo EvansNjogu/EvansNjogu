@@ -16,7 +16,7 @@
 
 - 📫 Wanna talk? Reach me at **hey@njoguevans.me** .
 
-- ⚡ Fun fact **I listen to music & love football, and !false is funny to me because it's true.🤣**
+- ⚡ Fun fact : **I listen to music & love football, and !false is funny to me because it's true.🤣**
 
 ## 🚀 Languages and Tools:
 
