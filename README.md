@@ -35,7 +35,7 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
 
 </p>
