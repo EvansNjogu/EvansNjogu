@@ -63,7 +63,6 @@
 
 <a href="https://github.com/EvansNjogu/github-readme-activity-graph"><img alt="Evans Njogu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=EvansNjogu&theme=react-dark" /></a>
 
-https://github-readme-activity-graph.cyclic.app
 
 <br/>
 <br/>
