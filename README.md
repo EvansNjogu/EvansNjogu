@@ -37,6 +37,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/ansible.png"/> </a>
 
 </p>
 
