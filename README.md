@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Sign Language Recognition Tool](https://njoguevans.me/SignTool/signtool.html)**
+- 🔭 I’m currently working on a **[Sign Language Recognition Tool.](https://signtool.njoguevans.me/)**
 
-- 🌱 I’m currently learning **a lot of stuff !🤣** 
+- 🌱 I’m currently learning **a lot of stuff !** 
 
 - 👯 I’m looking to collaborate more on **OpenSource Projects** .
 
@@ -16,7 +16,7 @@
 
 - 📫 Wanna talk? Reach me at **hey@njoguevans.me** .
 
-- ⚡ Fun fact : **I listen to music & love football, and !false is funny to me because it's true.🤣**
+- ⚡ Fun fact : **I listen to music & love football, and I put the 'pro' in procrastination & 'fun' in fundamentals🤣**
 
 ## 🚀 Languages and Tools:
 
@@ -38,6 +38,10 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/ansible.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/docker.png"/> </a>
+    <a href="https://www.linux.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/jupyter.png"/> </a>
+    
 
 </p>
 
