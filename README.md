@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Sign Language Recognition Tool.](https://signtool.njoguevans.me/)**
+- 🔭 I’m currently working on a **[Sign Language Recognition Tool.](https://signit.njoguevans.me/)**
 
 - 🌱 I’m currently learning **a lot of stuff !** 
 
