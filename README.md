@@ -41,7 +41,8 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/docker.png"/> </a>
     <a href="https://www.linux.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/jupyter.png"/> </a>
-     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jenkins.png"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jenkins.png"/> </a>
+    <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jira.png"/> </a>
     
 
 </p>
