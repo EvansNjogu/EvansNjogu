@@ -67,5 +67,11 @@
 <a href="https://github.com/EvansNjogu/github-readme-activity-graph"><img alt="Evans Njogu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=EvansNjogu&theme=react-dark" /></a>
 
 
+## Top languages
+Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br/>
 <br/>
