@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/EvansNjogu/github-readme-activity-graph"><img alt="Evans Njogu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=EvansNjogu&theme=react-dark" /></a>
+[![Evans Njogu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvansNjogu&theme=react-dark)](https://github.com/EvansNjogu/github-readme-activity-graph)
 
 
 ## Top languages
