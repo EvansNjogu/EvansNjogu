@@ -34,9 +34,10 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 
 🎵 Music and ⚽ football are my constants in life. They provide the rhythm and excitement that fuel my creativity and keep me grounded. Oh, and when it comes to procrastination, I've elevated it to an art form! 🤣
 
----
+## 📝 Note
 
-**Note:** My GitHub profile could be even more exciting, but all the cool stuff is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+My GitHub profile could be even more exciting, but all the cool stuff is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+---
 
 ## 🚀 Languages and Tools:
 
