@@ -37,6 +37,7 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 ## 📝 Note
 
 My GitHub profile could be even more exciting, but all the cool stuff is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+
 ---
 
 ## 🚀 Languages and Tools:
