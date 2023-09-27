@@ -25,7 +25,7 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 
 ## 👯 Let's Collaborate
 
-💡 I'm on the lookout for collaborative opportunities in the world of open source projects. If you share my passion for AI, accessibility, or just want to build cool things together, let's connect! Feel free to reach out at [hey@njoguevans.me](hey@njoguevans.me).
+💡 I'm on the lookout for collaborative opportunities in the world of open source projects. If you share my passion for AI, accessibility, or just want to build cool things together, let's connect! Feel free to reach out at [hey@njoguevans.me](mailto:hey@njoguevans.me).
 
 ## 🎓 Academic Pursuits
 
