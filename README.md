@@ -10,6 +10,8 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/evans-njogu/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://njoguevans.me/">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/react"></a>
 </p>
 
 
