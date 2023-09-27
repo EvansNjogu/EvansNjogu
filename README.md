@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Evans</a> <img
-src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm Evans</a> <img src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" /></h1>
 
 <br />
 
