@@ -1,22 +1,48 @@
-<a href="#"><img width="100%" height="auto" src="https://njoguevans.me/linkedin-banner.png" height="175px"/></a>
+<h1 align="center">Hi there, I'm <a href="https://njoguevans.me/" target="_blank">Evans</a> <img
+src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" /></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Evans!</h1>
-<h3 align="center">I'm a software engineer and solutions architect.</h3>
+<br />
+
+<p align="center">
+  <a href="https://github.com/EvansNjogu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/evans-njogu/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+</p>
 
 
-## 🙋‍♂️ About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on a **[Sign Language Recognition Tool.](https://signit.njoguevans.me/)**
+An AI enthusiast currently on a thrilling journey to master the art of artificial intelligence through my MSc program. My curiosity knows no bounds, and I'm always eager to explore the uncharted territories of this digital realm.
 
-- 🌱 I’m currently learning **a lot of stuff !** 
+🤖 My latest endeavor is crafting a cutting-edge Sign Language Recognition Tool, a project fueled by my passion for accessibility and inclusivity in technology. I believe in using AI for meaningful impact, and this tool is just the beginning.
 
-- 👯 I’m looking to collaborate more on **OpenSource Projects** .
+## 🌱 Learning Journey
 
-- 👨‍💻 All about me is available on **[my portfolio](https://njoguevans.me/)** .
+🚀 My quest for knowledge is never-ending. I'm constantly diving into the latest developments in machine learning, computer vision, and natural language processing. Whether it's the newest research paper or a coding challenge, I'm up for the challenge.
 
-- 📫 Wanna talk? Reach me at **hey@njoguevans.me** .
+## 👯 Let's Collaborate
 
-- ⚡ Fun fact : **I listen to music & love football, and I put the 'pro' in procrastination & 'fun' in fundamentals🤣**
+💡 I'm on the lookout for collaborative opportunities in the world of open source projects. If you share my passion for AI, accessibility, or just want to build cool things together, let's connect! Feel free to reach out at [hey@njoguevans.me](hey@njoguevans.me).
+
+## 🎓 Academic Pursuits
+
+📚 Currently, I'm pursuing my MSc in Artificial Intelligence, where I'm delving deeper into the realm of neural networks, deep learning, and the ethical considerations surrounding AI. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
+
+## ⚡ Fun Facts
+
+🎵 Music and ⚽ football are my constants in life. They provide the rhythm and excitement that fuel my creativity and keep me grounded. Oh, and when it comes to procrastination, I've elevated it to an art form! 🤣
+
+---
+
+Let's embark on this AI journey together! Check out my portfolio for more about my projects and experiences.
+
+
+**Note:** My GitHub profile could be even more exciting, but all the cool stuff is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+
+🌐 [Visit Portfolio](https://njoguevans.me/)
 
 ## 🚀 Languages and Tools:
 
@@ -71,9 +97,3 @@
 Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=react)](https://github.com/EvansNjogu/github-readme-stats)
-
-![snake animation](https://github.com/EvansNjogu/EvansNjogu/blob/output/github-contribution-grid-snake2.svg)
-
-
-<br/>
-<br/>
