@@ -66,8 +66,9 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/jupyter.png"/> </a>
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jenkins.png"/> </a>
     <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jira.png"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
     
-
+  
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
