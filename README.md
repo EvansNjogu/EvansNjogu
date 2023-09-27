@@ -72,7 +72,7 @@ Top Languages does not indicate my skill level or anything like that; it's a Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=react)](https://github.com/EvansNjogu/github-readme-stats)
 
-![Snake animation](https://github.com/EvansNjogu/EvansNjogu/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/EvansNjogu/EvansNjogu/blob/output/github-contribution-grid-snake2.svg)
 
 
 <br/>
