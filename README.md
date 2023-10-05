@@ -79,9 +79,9 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
   </a>
 </p>
 
-## 📊 My Github Stats
+## Github Stats
 
-![EvansNjogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvansNjogu&show_icons=true&theme=react)
+![EvansNjogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvansNjogu&show_icons=true&theme=graywhite)
 
 
 <br/>
