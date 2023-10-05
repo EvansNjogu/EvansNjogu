@@ -95,4 +95,4 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 ## Top languages
 Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=react)](https://github.com/EvansNjogu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite)](https://github.com/EvansNjogu/github-readme-stats)
