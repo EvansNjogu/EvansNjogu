@@ -80,8 +80,10 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 </p>
 
 ## Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvansNjogu&show_icons=true&theme=graywhite" alt="EvansNjogu's GitHub stats" />
+</p>
 
-![EvansNjogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvansNjogu&show_icons=true&theme=graywhite)
 
 
 <br/>
