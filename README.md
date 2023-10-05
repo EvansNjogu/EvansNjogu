@@ -89,10 +89,14 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 <br/>
 <br/>
 
-[![Evans Njogu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvansNjogu&theme=react-dark)](https://github.com/EvansNjogu/github-readme-activity-graph)
+[![Evans Njogu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvansNjogu&theme=minimal)](https://github.com/EvansNjogu/github-readme-activity-graph)
 
 
 ## Top languages
 Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite)](https://github.com/EvansNjogu/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/EvansNjogu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite" alt="Top Langs" />
+  </a>
+</p>
