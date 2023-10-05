@@ -74,7 +74,9 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 <br/>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EvansNjogu&theme=graywhite)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=EvansNjogu&theme=graywhite" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 📊 My Github Stats
