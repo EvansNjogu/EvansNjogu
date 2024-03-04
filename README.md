@@ -10,7 +10,7 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
   <a href="https://www.linkedin.com/in/evans-njogu/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://njoguevans.me/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.simpleicons.org/Educative/black"></a>
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.simpleicons.org/Educative/0cf9"></a>
 </p>
 
 
