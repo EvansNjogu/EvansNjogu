@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://njoguevans.me/" target="_blank">Evans!</a> <img
+<h1 align="center">Hi there, I'm Evans!</a> <img
 src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" /></h1>
 <br />
 
@@ -9,6 +9,8 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/evans-njogu/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://njoguevans.me/">
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.simpleicons.org/Educative/black"></a>
 </p>
 
 
