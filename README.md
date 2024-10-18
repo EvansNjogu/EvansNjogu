@@ -17,7 +17,7 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
 
 ## 🧠 About Me
 
-An AI enthusiast currently on a thrilling journey to master the art of artificial intelligence through my MSc program. My curiosity knows no bounds, and I'm always eager to explore the uncharted territories of this digital realm.
+An AI enthusiast currently on a thrilling journey to master the art of artificial intelligence through my MSc program. My curiosity knows no bounds and I'm always eager to explore the uncharted territories of this digital realm.
 
 🤖 My latest endeavor is crafting a cutting-edge Sign Language Recognition Tool, a project fueled by my passion for accessibility and inclusivity in technology. I believe in using AI for meaningful impact, and this tool is just the beginning.
 
