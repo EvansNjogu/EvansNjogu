@@ -23,7 +23,7 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 
 ## 🌱 Learning Journey
 
-🚀 My quest for knowledge is never-ending. I'm constantly diving into the latest developments in machine learning, computer vision, and natural language processing. Whether it's the newest research paper or a coding challenge, I'm up for the challenge.
+🚀 My quest for knowledge is never-ending. I'm constantly diving into the latest developments in deep learning, computer vision and natural language processing. Whether it's the newest research paper or a coding challenge, I'm up for the challenge.
 
 ## 👯 Let's Collaborate
 
@@ -31,7 +31,7 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 
 ## 🎓 Academic Pursuits
 
-📚 Currently, I'm pursuing my MSc in Artificial Intelligence, where I'm delving deeper into the realm of neural networks, deep learning, and the ethical considerations surrounding AI. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
+📚 I am currently pursuing my MSc in Artificial Intelligence, with a focus on **[Numerosity-Based Categorization in Neural Networks](https://github.com/EvansNjogu/NumerosityBasedCategorization)**. My thesis explores methods for categorizing objects into groups like "few," "medium," and "many," focusing on scenarios where precise counting is unnecessary, such as in crowd monitoring, object detection and traffic analysis. The goal is to develop a scalable, robust model that offers efficient quantification in real-world applications where approximate counts are more practical than exact numbers. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
 
 ## ⚡ Fun Facts
 
@@ -69,6 +69,8 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jenkins.png"/> </a>
     <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jira.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> </a>
+    <a href="https://www.vmware.com/solutions/cloud-infrastructure/virtualization" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/> </a>
     
   
 </p>
