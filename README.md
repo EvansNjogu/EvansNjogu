@@ -72,6 +72,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
     <a href="https://kubernetes.io/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> </a>
     <a href="https://www.vmware.com/solutions/cloud-infrastructure/virtualization" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> </a>
+    <a href="https://chatgpt.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>  </a>
     
   
 </p>
