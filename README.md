@@ -74,6 +74,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
     <a href="https://aws.amazon.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> </a>
     <a href="https://chatgpt.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>  </a>
     <a href="https://colab.google/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> </a>
+    <a href="https://pytorch.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> </a>
     
   
 </p>
