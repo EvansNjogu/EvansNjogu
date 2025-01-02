@@ -88,7 +88,11 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 <br/>
 <br/>
 
-[![Evans Njogu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvansNjogu&theme=minimal)](https://github.com/EvansNjogu/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvansNjogu/EvansNjogu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvansNjogu/EvansNjogu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EvansNjogu/EvansNjogu/output/github-snake.svg" />
+</picture>
 
 
 ## Top languages
