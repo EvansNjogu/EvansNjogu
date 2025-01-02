@@ -89,9 +89,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 </p>
 
 ## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvansNjogu&show_icons=true&theme=graywhite" alt="EvansNjogu's GitHub stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EvansNjogu&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
