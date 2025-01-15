@@ -81,7 +81,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=EvansNjogu&theme=graywhite" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EvansNjogu&theme=graywhite" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
 
 
 ## Top languages
-Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.
+Top Languages do not indicate my skill level; it's a GitHub metric to determine which languages have the most code on my GitHub.
 
 <p align="center">
   <a href="https://github.com/EvansNjogu/github-readme-stats">
