@@ -31,7 +31,7 @@ An AI enthusiast currently on a thrilling journey to master the art of artificia
 
 ## 🎓 Academic Pursuits
 
-📚 I am currently pursuing my MSc in Artificial Intelligence, with a focus on **[Numerosity-Based Categorization in Neural Networks](https://github.com/EvansNjogu/NumerosityBasedCategorization)**. My thesis explores methods for categorizing objects into groups like "few," "medium," and "many," focusing on scenarios where precise counting is unnecessary, such as in crowd monitoring, object detection and traffic analysis. The goal is to develop a scalable, robust model that offers efficient quantification in real-world applications where approximate counts are more practical than exact numbers. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
+📚 I am currently pursuing my MSc in Artificial Intelligence, with a focus on ***Numerosity-Based Categorization in Neural Networks***. My thesis explores methods for categorizing objects into groups like "few," "medium," and "many," focusing on scenarios where precise counting is unnecessary, such as in crowd monitoring, object detection and traffic analysis. The goal is to develop a scalable, robust model that offers efficient quantification in real-world applications where approximate counts are more practical than exact numbers. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
 
 ## ⚡ Fun Facts
 
