@@ -4,7 +4,7 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
 
 <p align="center">
   <a href="https://njoguevans.me/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://cdn.simpleicons.org/Educative/0cf9"></a>
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://njoguevans.me/PortfolioImage.svg"></a>
   <a href="https://github.com/EvansNjogu">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
