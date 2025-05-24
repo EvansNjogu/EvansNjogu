@@ -78,6 +78,7 @@ My GitHub profile could be even more exciting, but all the cool stuff is locked 
     <a href="https://pytorch.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> </a>
     <a href="https://fluxcd.io/" target="_blank"> <img width="48" height="48" src="https://njoguevans.me/fluxcd.png" alt="fluxcd"/> </a>
     <a href="https://react.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/> </a>
+    <a href="https://go.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go"/> </a>
 </p>
 
 <br/>
