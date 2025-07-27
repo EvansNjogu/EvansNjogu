@@ -18,17 +18,20 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
 
 ## 🧠 About Me
 
-An AI enthusiast currently on a thrilling journey to master the art of artificial intelligence through my MSc program. My curiosity knows no bounds and I'm always eager to explore the uncharted territories of this digital realm.
+An AI enthusiast and freshly minted MSc graduate on a mission to turn curiosity into impact. My interests span deep learning, computer vision, affective computing and the fuzzy edges where human cognition meets machine perception.
+
+I believe in building AI that matters, and this is just the beginning.
 
 🤖 My latest endeavor is crafting a cutting-edge Sign Language Recognition Tool, a project fueled by my passion for accessibility and inclusivity in technology. I believe in using AI for meaningful impact, and this tool is just the beginning.
 
-## 🌱 Learning Journey
+## 🌱 Always Growing
 
-🚀 My quest for knowledge is never-ending. I'm constantly diving into the latest developments in deep learning, computer vision and natural language processing. Whether it's the newest research paper or a coding challenge, I'm up for the challenge.
+The learning doesn't stop at graduation. I'm continually exploring new research, tackling coding challenges and leveling up on the latest in neural networks, multimodal learning and beyond.
 
 ## 👯 Let's Collaborate
 
-💡 I'm on the lookout for collaborative opportunities in the world of open source projects. If you share my passion for AI, accessibility, or just want to build cool things together, let's connect! Feel free to reach out at [hey@njoguevans.me](mailto:hey@njoguevans.me).
+💡 I'm always up for collaborating on open source projects — especially if you're into AI for social good, accessibility, or just enjoy building smart tools. If that sounds like you, let’s chat!
+📬 Reach me at [hey@njoguevans.me](mailto:hey@njoguevans.me)
 
 ## 🎓 Academic Pursuits
 
