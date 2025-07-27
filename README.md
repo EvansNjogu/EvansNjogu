@@ -28,7 +28,7 @@ The learning doesn't stop at graduation. I'm continually exploring new research,
 
 ## 👯 Let's Collaborate
 
-💡 I'm always up for collaborating on open source projects — especially if you're into AI for social good, accessibility, or just enjoy building smart tools. If that sounds like you, let’s chat!
+💡 I'm always up for collaborating on open source projects...especially if you're into AI for social good, accessibility, or just enjoy building smart tools. If that sounds like you, let’s chat!
 📬 Reach me at [hey@njoguevans.me](mailto:hey@njoguevans.me)
 
 ## 🎓 Academic Pursuits
