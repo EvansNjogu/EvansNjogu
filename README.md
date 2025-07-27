@@ -30,17 +30,17 @@ The learning doesn't stop at graduation. I'm continually exploring new research,
 
 💡 I'm always up for collaborating on open source projects...especially if you're into AI for social good, accessibility, or just enjoy building smart tools. If that sounds like you, feel free to reach out at [hey@njoguevans.me](mailto:hey@njoguevans.me)
 
-## 🎓 Academic Pursuits
+## 🎓 Thesis Spotlight
 
-📚 I am currently pursuing my MSc in Artificial Intelligence, with a focus on **[Numerosity-Based Categorization in Neural Networks](https://github.com/EvansNjogu/NumerosityBasedCategorization)**. My thesis explores methods for categorizing objects into groups like "few," "medium," and "many," focusing on scenarios where precise counting is unnecessary, such as in crowd monitoring, object detection and traffic analysis. The goal is to develop a scalable, robust model that offers efficient quantification in real-world applications where approximate counts are more practical than exact numbers. Feel free to pick my brain about the latest AI trends or share your insights—I'm all ears!
+I recently completed my MSc in Computer Science - Artificial Intelligence, where I focused on **[Numerosity-Based Categorization in Neural Networks](https://github.com/EvansNjogu/NumerosityBasedCategorization)**. My thesis investigates how AI can categorize objects into abstract quantity groups like "few," "medium," and "many" — useful in real-world contexts like crowd monitoring or traffic analysis where precise counts are an overkill. It blends cognitive inspiration with neural models for scalable, approximate quantification.
 
 ## ⚡ Fun Facts
 
-🎵 Music and ⚽ football are my constants in life. They provide the rhythm and excitement that fuel my creativity and keep me grounded. Oh, and when it comes to procrastination, I've elevated it to an art form! 🤣
+🎵 Music and ⚽ football keep me sane, they’re my rhythm and reset.
 
 ## 📝 Note
 
-My GitHub profile could be even more exciting, but all the cool stuff is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+My GitHub is just the tip of the iceberg, but all the cool production-grade work is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
 
 ---
 
