@@ -34,9 +34,6 @@ The learning doesn't stop at graduation. I'm continually exploring new research,
 
 I recently completed my MSc in Computer Science - Artificial Intelligence, where I focused on **[Numerosity-Based Categorization in Neural Networks](https://github.com/EvansNjogu/NumerosityBasedCategorization)**. My thesis investigates how AI can categorize objects into abstract quantity groups like "few," "medium," and "many"; useful in real-world contexts like crowd monitoring or traffic analysis where precise counts are an overkill. It blends cognitive inspiration with neural models for scalable, approximate quantification.
 
-## ⚡ Fun Facts
-
-🎵 Music and ⚽ football keep me sane, they’re my rhythm and reset.
 
 ## 📝 Note
 
