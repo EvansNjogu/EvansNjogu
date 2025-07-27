@@ -22,8 +22,6 @@ An AI enthusiast and freshly minted MSc graduate on a mission to turn curiosity 
 
 I believe in building AI that matters, and this is just the beginning.
 
-🤖 My latest endeavor is crafting a cutting-edge Sign Language Recognition Tool, a project fueled by my passion for accessibility and inclusivity in technology. I believe in using AI for meaningful impact, and this tool is just the beginning.
-
 ## 🌱 Always Growing
 
 The learning doesn't stop at graduation. I'm continually exploring new research, tackling coding challenges and leveling up on the latest in neural networks, multimodal learning and beyond.
