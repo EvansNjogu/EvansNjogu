@@ -101,6 +101,6 @@ Top Languages do not indicate my skill level; it's a GitHub metric to determine 
 
 <p align="center">
   <a href="https://github.com/EvansNjogu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite" alt="Top Langs" />
+    <img src="https://my-readme-stats-phi.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite" alt="Top Langs" />
   </a>
 </p>
