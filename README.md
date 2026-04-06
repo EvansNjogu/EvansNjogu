@@ -106,4 +106,4 @@ Top Languages do not indicate my skill level; it's a GitHub metric to determine 
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu)](https://github.com/EvansNjogu/github-readme-stats)
