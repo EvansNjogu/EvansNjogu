@@ -94,16 +94,3 @@ My GitHub is just the tip of the iceberg, but all the cool production-grade work
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvansNjogu/EvansNjogu/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/EvansNjogu/EvansNjogu/output/github-snake.svg" />
 </picture>
-
-
-## Top languages
-Top Languages do not indicate my skill level; it's a GitHub metric to determine which languages have the most code on my GitHub.
-
-<p align="center">
-  <a href="https://github.com/EvansNjogu/github-readme-stats">
-    <img src="https://my-readme-stats-phi.vercel.app/api/top-langs/?username=EvansNjogu&hide=javascript,html&theme=graywhite" alt="Top Langs" />
-  </a>
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansNjogu)](https://github.com/EvansNjogu/github-readme-stats)
