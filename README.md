@@ -37,7 +37,7 @@ I recently completed my MSc in Computer Science - Artificial Intelligence, where
 
 ## 📝 Note
 
-My GitHub is just the tip of the iceberg, but all the cool production-grade work is locked away in our GitHub Enterprise at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
+My public GitHub is just the tip of the iceberg, much of my cool production-grade work is locked away in the GitHub Enterprise and GitLab repositories at the company. It's like having a treasure chest, but the key is at the office! 🗝️😄
 
 ---
 
