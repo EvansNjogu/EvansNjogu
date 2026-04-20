@@ -23,6 +23,7 @@
   </tr>
 </table>
 
+
 ## 🧠 About Me
 
 An AI enthusiast and freshly minted MSc graduate on a mission to turn curiosity into impact. My interests span deep learning, computer vision, affective computing and the fuzzy edges where human cognition meets machine perception.
