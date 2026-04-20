@@ -2,6 +2,7 @@
   Hi there, I'm Evans!
   <img src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" alt="Waving hand" />
 </h1>
+
 <table align="center">
   <tr>
     <td align="center">
