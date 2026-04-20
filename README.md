@@ -51,40 +51,44 @@ My public GitHub is just the tip of the iceberg, much of my cool production-grad
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>   
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/github.png"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/ansible.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/docker.png"/> </a>
-    <a href="https://www.linux.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/jupyter.png"/> </a>
-    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jenkins.png"/> </a>
-    <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/jira.png"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
-    <a href="https://kubernetes.io/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/> </a>
-    <a href="https://docs.vmware.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> </a>
-    <a href="https://chatgpt.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>  </a>
-    <a href="https://colab.google/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> </a>
-    <a href="https://fluxcd.io/" target="_blank"> <img width="48" height="48" src="https://njoguevans.me/fluxcd.png" alt="fluxcd"/> </a>
-    <a href="https://react.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img width="48" height="48" src="https://njoguevans.me/go-language.png" alt="go"/> </a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="48" height="48"/></a></td>
+    <td><a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/></a></td>
+    <td><a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="Google Cloud" width="48" height="48"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a></td>
+    <td><a href="https://html.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/></a></td>
+    <td><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/></a></td>
+    <td><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="48" height="48"/></a></td>
+    <td><a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="48" height="48"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/github.png" alt="GitHub" width="48" height="48"/></a></td>
+    <td><a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="48" height="48"/></a></td>
+    <td><a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/></a></td>
+    <td><a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a></td>
+    <td><a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/officexs/40/000000/php-logo.png" alt="PHP" width="48" height="48"/></a></td>
+    <td><a href="https://laravel.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="48" height="48"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ansible.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/ansible.png" alt="Ansible" width="48" height="48"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/docker.png" alt="Docker" width="48" height="48"/></a></td>
+    <td><a href="https://www.linux.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="Linux" width="48" height="48"/></a></td>
+    <td><a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/jupyter.png" alt="Jupyter" width="48" height="48"/></a></td>
+    <td><a href="https://www.jenkins.io/" target="_blank"><img src="https://img.icons8.com/color/48/null/jenkins.png" alt="Jenkins" width="48" height="48"/></a></td>
+    <td><a href="https://jira.atlassian.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/jira.png" alt="Jira" width="48" height="48"/></a></td>
+    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="48" height="48"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="48" height="48"/></a></td>
+    <td><a href="https://docs.vmware.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="VMware" width="48" height="48"/></a></td>
+    <td><a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="48" height="48"/></a></td>
+    <td><a href="https://chatgpt.com/" target="_blank"><img src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT" width="48" height="48"/></a></td>
+    <td><a href="https://colab.google/" target="_blank"><img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/></a></td>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" width="48" height="48"/></a></td>
+    <td><a href="https://fluxcd.io/" target="_blank"><img src="https://njoguevans.me/fluxcd.png" alt="FluxCD" width="48" height="48"/></a></td>
+    <td><a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="48" height="48"/></a></td>
+    <td><a href="https://go.dev/" target="_blank"><img src="https://njoguevans.me/go-language.png" alt="Go" width="48" height="48"/></a></td>
+  </tr>
+</table>
 
 <br/>
 
