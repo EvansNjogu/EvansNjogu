@@ -4,15 +4,17 @@ src="https://github.com/EvansNjogu/EvansNjogu/blob/master/Hi.gif" height="32" />
 
 <p align="center">
   <a href="https://njoguevans.me/">
-    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://njoguevans.me/PortfolioImage.svg"></a>
+    <img alt="Portfolio" title="Portfolio" height="48" width="48" src="https://njoguevans.me/PortfolioImage.svg" />
+  </a>
   <a href="https://github.com/EvansNjogu">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/evans-njogu/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github" />
+    </picture>
   </a>
-
+  <a href="https://www.linkedin.com/in/evans-njogu/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  </a>
 </p>
 
 
