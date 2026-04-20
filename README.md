@@ -53,7 +53,7 @@ My public GitHub is just the tip of the iceberg, much of my cool production-grad
 
 <table>
   <tr>
-    <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="48" height="48"/></a></td>
+    <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="56" height="56"/></a></td>
     <td><a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a></td>
     <td><a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/></a></td>
     <td><a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="Google Cloud" width="48" height="48"/></a></td>
