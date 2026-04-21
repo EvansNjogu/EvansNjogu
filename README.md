@@ -92,6 +92,16 @@ My public GitHub is just the tip of the iceberg, much of my cool production-grad
     <td><a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="64" height="64"/></a></td>
     <td><a href="https://go.dev/" target="_blank"><img src="https://njoguevans.me/go-language.png" alt="Go" width="64" height="64"/></a></td>
   </tr>
+  <tr>
+    <td><a href="https://k9scli.io/" target="_blank"><img src="https://cdn.simpleicons.org/k9s" alt="K9s" width="64" height="64"/></a></td>
+    <td><a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://cdn.simpleicons.org/datagrip" alt="DataGrip" width="64" height="64"/></a></td>
+    <td><a href="https://www.keycloak.org/" target="_blank"><img src="https://cdn.simpleicons.org/keycloak" alt="Keycloak" width="64" height="64"/></a></td>
+    <td><a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/64/000000/gitlab.png" alt="GitLab" width="64" height="64"/></a></td>
+    <td><a href="https://docs.gitlab.com/runner/" target="_blank"><img src="https://img.icons8.com/color/64/000000/gitlab.png" alt="GitLab Runner" width="64" height="64"/></a></td>
+    <td><a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://cdn.simpleicons.org/grafana" alt="Loki" width="64" height="64"/></a></td>
+    <td><a href="https://fluentbit.io/" target="_blank"><img src="https://cdn.simpleicons.org/fluentbit" alt="Fluent Bit" width="64" height="64"/></a></td>
+    <td><a href="https://grafana.com/" target="_blank"><img src="https://img.icons8.com/color/64/000000/grafana.png" alt="Grafana" width="64" height="64"/></a></td>
+  </tr>
 </table>
 
 <br/>
