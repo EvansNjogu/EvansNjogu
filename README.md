@@ -94,7 +94,7 @@ My public GitHub is just the tip of the iceberg, much of my cool production-grad
   </tr>
   <tr>
     <td><a href="https://fluentbit.io/" target="_blank"><img src="https://cdn.simpleicons.org/fluentbit" alt="Fluent Bit" width="64" height="64"/></a></td>
-    <!-- <td><a href="https://k9scli.io/" target="_blank"><img src="https://cdn.simpleicons.org/k9s" alt="K9s" width="64" height="64"/></a></td> -->
+    <td><a href="https://k9scli.io/" target="_blank"><img src="https://img.shields.io/badge/K9s-2C2D72?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K9s" height="28"/></a></td>
     <td><a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://cdn.simpleicons.org/datagrip" alt="DataGrip" width="64" height="64"/></a></td>
     <td><a href="https://www.keycloak.org/" target="_blank"><img src="https://cdn.simpleicons.org/keycloak" alt="Keycloak" width="64" height="64"/></a></td>
     <td><a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/64/000000/gitlab.png" alt="GitLab" width="64" height="64"/></a></td>
